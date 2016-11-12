@@ -23,3 +23,8 @@ pieces.transform.position = gameObject.transform.position;
 1. `碎片物体`应当由多个小物体组成，小物体添加`RigidBody`和`Collider`组件
 2. `Collider`之间可以稍微重合一小部分，以便达到爆炸的效果
 
+
+---
+
+Best Reards   
+2016/11/12
