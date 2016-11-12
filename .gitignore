@@ -3,3 +3,4 @@ public
 .npmignore
 db.json
 preview.sh
+npm-debug.log
