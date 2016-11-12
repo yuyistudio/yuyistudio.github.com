@@ -1,3 +1,4 @@
 public
 .deploy_git/
 .npmignore
+db.json

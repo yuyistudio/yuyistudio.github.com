@@ -1,5 +1,11 @@
 ---
 title: Unity:实现碰撞破碎效果
+date: 2016/11/12 07:37
+categories: unity
+tags:
+- unity
+- 破碎
+- 效果
 ---
 
 ## 基本思路
