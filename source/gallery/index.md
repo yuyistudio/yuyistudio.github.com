@@ -7,4 +7,6 @@ date: 2016-11-19 21:41:26
 
 1. [绳子先生](/gallery/mr-rope.html)
 2. [跑个1千米](/gallery/running-boy.html)
+3. [鬼打墙](/gallery/ghost.html)
+
 

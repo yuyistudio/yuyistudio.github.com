@@ -9,4 +9,4 @@ date: 2016-11-12 00:21:39
 
 # 关于工作室
 
-TODO
+## [Indienova主页](http://indienova.com/u/yuyistudio)
